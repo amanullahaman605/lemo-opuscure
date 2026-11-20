@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Song Lyrics</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #121212;
+            color: #ffffff;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+        }
+        .container {
+            max-width: 600px;
+            width: 100%;
+            background: #1e1e1e;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+        }
+        h2 {
+            color: #1db954;
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+            margin-top: 20px;
+        }
+        p {
+            line-height: 1.6;
+            margin: 8px 0;
+        }
+        .verse {
+            margin-bottom: 25px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Song Lyrics</h1>
+        
+        <div class="verse">
+            <h2>[Verse 1]</h2>
+            <p>Ratteya ratteya jaga main tere naal[cite: 2]</p>
+            <p>Kitne raat kitne raat tere saath tere saath[cite: 2]</p>
+            <p>Ratteya ratteya jaga main tere naal[cite: 2]</p>
+            <p>Tu bhi aa tu bhi aa mere saath mere saath[cite: 2]</p>
+            <p>Katu ratteya re, jagu ratteya re[cite: 2]</p>
+            <p>Tere naal rehna si, nal si, nal si[cite: 2]</p>
+            <p>Jag ghum aave, main hu yeha pe[cite: 2]</p>
+            <p>Na jana tere bina kahi bhi kahi[cite: 2]</p>
+        </div>
+
+        <div class="verse">
+            <h2>[Chorus]</h2>
+            <p>Tu door na ja mujhe chhod ke[cite: 1, 2]</p>
+            <p>Tu door na ja[cite: 1, 2]</p>
+            <p>Tu door na ja mujhe chhod ke[cite: 1, 2]</p>
+            <p>Tu door na ja[cite: 1, 2]</p>
+        </div>
+
+        <div class="verse">
+            <h2>[Verse 2]</h2>
+            <p>Tu bhi aa tu bhi aa mere saath mere saath[cite: 1]</p>
+            <p>Likhoon main kahaniyaan sari raat[cite: 1]</p>
+            <p>Tere saath tere paas rehna hain din raat[cite: 1]</p>
+            <p>Tu hi jaan tu jahaan[cite: 1]</p>
+            <p>Yaad teri aave itni sataave[cite: 1]</p>
+            <p>Bhool na paaye tuje yaara ye kabhi[cite: 1]</p>
+            <p>Yaad teri aave itni rulaave[cite: 1]</p>
+            <p>Bhool na paaye tuje yaara ye kabhi[cite: 1]</p>
+        </div>
+
+        <div class="verse">
+            <h2>[Chorus]</h2>
+            <p>Tu door na ja mujhe chhod ke[cite: 1, 2]</p>
+            <p>Tu door na ja[cite: 1, 2]</p>
+            <p>Tu door na ja mujhe chhod ke[cite: 1, 2]</p>
+            <p>Tu door na ja[cite: 1, 2]</p>
+        </div>
+    </div>
+
+</body>
+</html>
